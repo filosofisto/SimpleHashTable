@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.9.2, 2019-11-04T08:22:37. -->
+<!-- Written by QtCreator 4.9.2, 2019-11-04T12:06:12. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -365,7 +365,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/private/var/folders/r5/s6zf1z390lj642yyth1zj21c0000gp/T/QtCreator-KZijoA/qtc-cmake-kJJpDyay</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/Users/Eduardo/Private/Estudos/Algorithm/build-SimpleHashTable-Desktop_Qt_5_13_0_clang_64bit-Default</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
